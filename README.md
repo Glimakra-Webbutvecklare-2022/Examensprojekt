@@ -31,13 +31,13 @@ Andra förslag för projekt som kan passa:
 - Realtidsapplikation: Skapa en websocket baserad applikation, med backend och frontend. Gör det möjligt för en administratör att skapa innehåll i applikationen, hantera ett resultat som baseras på applikationens funktionalitet. 
 
 
-### Hur beskriver jag mitt förslag till examensarbete? 
+### Att göra: Beskriv ditt förslag till examensarbete 
 
 Skapa ett git repo för projektarbetet. 
 
 I README.md anger du följande rubriker:
 - Översiktlig beskrivning: I korthet vad ska applikationen göra?
-- Tekniker och programspråk: Punktform vilka programspråk och applikationer ni tänker använda
+- Tekniker och programspråk: Punktform vilka programspråk och applikationer ska användas
 - Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram 
 - Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
 
@@ -45,10 +45,16 @@ I README.md anger du följande rubriker:
 
 ### Handledare
 
-Handledning kommer finnas under modulen. Du kommer att få en huvudsaklig handledare, men med möjlighet att samråda med andra lärare på kursen.
+Handledning kommer att finnas under tiden som du arbetar med examensprojketet. Du kommer att få en huvudsaklig handledare, men med möjlighet att samråda med andra lärare på kursen.
 
 
-### Redovisning
+### Redovisning vid halvtid 
+
+När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i form av ett pågående arbete. Här du delar du med dig av utmaningar och kan få feedback. Visa skisser, din applikation och ditt git repo.  
+
+- Tisdag 30 april
+
+### Slutlig redovisning
 
 - Tisdag 28 maj 
 - Torsdag 30 maj
