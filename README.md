@@ -30,22 +30,6 @@ Andra förslag för projekt som kan passa:
 
 - Realtidsapplikation: Skapa en websocket baserad applikation, med backend och frontend. Gör det möjligt för en administratör att skapa innehåll i applikationen, hantera ett resultat som baseras på applikationens funktionalitet. 
 
----
-
-### Att göra: Beskriv ditt förslag till examensarbete 
-
-Skapa ett Git repo för projektarbetet. 
-
-I README.md anger du följande rubriker:
-- Översiktlig beskrivning: I korthet vad ska applikationen göra?
-- Tekniker och programspråk: Punktform vilka programspråk och applikationer ska användas
-- Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
-- Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare) 
-
-**Bjud in oss lärare till ditt repo för examensprojektet senast onsdagen 27:e mars i vecka 13**
-
----
-
 ### Handledare
 
 Handledning kommer att finnas under tiden som du arbetar med examensprojektet. Du kommer att få en huvudsaklig handledare, men givetvis med möjlighet att samråda med andra lärare på kursen.
@@ -73,3 +57,19 @@ Redovisningen av projektet förväntas innehålla
 
 
 Ditt examensprojektet kommer att framgå av slutgiltigt kursintyg.
+
+---
+
+### Att göra: Beskriv ditt förslag till examensarbete 
+
+Skapa ett Git repo för projektarbetet. 
+
+I README.md anger du följande rubriker:
+- Översiktlig beskrivning: I korthet vad ska applikationen göra?
+- Tekniker och programspråk: Punktform vilka programspråk och applikationer ska användas
+- Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
+- Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare) 
+
+**Bjud in oss lärare till ditt repo för examensprojektet senast onsdagen 27:e mars i vecka 13**
+
+---
