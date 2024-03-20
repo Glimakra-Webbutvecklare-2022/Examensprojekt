@@ -37,14 +37,18 @@ Handledning kommer att finnas under tiden som du arbetar med examensprojektet. D
 
 ### Redovisning vid halvtid 
 
+*preliminärt datum*
+
 När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i form av ett pågående arbete. Här du delar du med dig av utmaningar och kan få feedback. Visa skisser, din applikation och ditt Git repo.  
 
-- Tisdag 30 april
+- Tisdag 30 april 
 
 ### Slutlig redovisning
 
+*preliminära datum*
+
 - Tisdag 28 maj 
-- Torsdag 30 maj
+- Torsdag 30 maj 
 
 Redovisningen av projektet förväntas innehålla
 
