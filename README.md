@@ -64,9 +64,9 @@ Ditt examensprojektet kommer att framgå av slutgiltigt kursintyg.
 
 ---
 
-### Att göra: Beskriv ditt förslag till examensarbete 
+### Att göra innan perioden startar - beskriv ditt förslag till examensarbete 
 
-Skapa ett Git repo för projektarbetet. 
+Skapa ett pGit repo för projektarbetet. 
 
 I README.md anger du följande rubriker:
 - Översiktlig beskrivning: I korthet vad ska applikationen göra?
@@ -75,5 +75,7 @@ I README.md anger du följande rubriker:
 - Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare) 
 
 **Bjud in oss lärare till ditt repo för examensprojektet senast onsdagen 27:e mars i vecka 13**
+
+*andsju, addkolon, frozenbanana*
 
 ---
