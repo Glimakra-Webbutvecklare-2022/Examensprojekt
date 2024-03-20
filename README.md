@@ -45,7 +45,7 @@ I README.md anger du följande rubriker:
 
 ### Handledare
 
-Handledning kommer att finnas under tiden som du arbetar med examensprojektet. Du kommer att få en huvudsaklig handledare, men med möjlighet att samråda med andra lärare på kursen.
+Handledning kommer att finnas under tiden som du arbetar med examensprojektet. Du kommer att få en huvudsaklig handledare, men givetvis med möjlighet att samråda med andra lärare på kursen.
 
 
 ### Redovisning vid halvtid 
@@ -69,4 +69,4 @@ Redovisningen av projektet förväntas innehålla
 - en loggbok med veckovisa (*minst*) uppdateringar av vad som har arbetats på och eventuella utmaningar
 
 
-Examensprojektet kommer att framgå av ett slutgiltigt kursintyg.
+Ditt examensprojektet kommer att framgå av slutgiltigt kursintyg.
