@@ -1,6 +1,6 @@
 # Examensprojekt
 
-Ett examensprojekt är det avslutande arbetet på kursen Webbutvecaklre. Projektets omfattning är 8 veckor (vecka 15-22). Studerande på kursen Webbutvecklare kan påbörja arbetet med projektet innan modulen startar.
+Examensprojektet är den avslutande modulen på kursen Webbutvecklare. Projektets omfattning är 8 veckor (vecka 15-22). Studerande på kursen Webbutvecklare kan påbörja arbetet med projektet innan modulen startar.
 
 Handledning av ditt arbete med examensprojektet sker inom modulens tidsramar.
 
@@ -24,16 +24,16 @@ Andra förslag för projekt som kan passa:
 
 - Bloggplattform: Skapa en bloggplattform där användare kan skapa egna bloggar, publicerar inlägg och länka till andra bloggar.
 
-- Onlinekursplattform: Skapa en onlineutbildningsplattform där användare kan registrera sig, ta kurser och få certifieringar. Plattformen skulle också kunna innehålla funktioner som att visa kursmaterial, ställa frågor till lärare och interagera med andra elever.
+- Onlinekursplattform: Skapa en plattform där användare kan registrera sig, ta kurser och få certifieringar. Plattformen skulle också kunna innehålla funktioner som att visa kursmaterial, ställa frågor till lärare och interagera med andra elever.
 
-- E-butik: Skapa en onlinebutik där användare kan köpa produkter. Webbplatsen skulle innehålla en katalog över produkter, produktbeskrivningar, en varukorg och en check-out-process.
+- E-butik: Skapa en applikation där användare kan köpa produkter. Webbplatsen skulle innehålla en katalog över produkter, produktbeskrivningar, en varukorg och en check-out-process.
 
 - Realtidsapplikation: Skapa en websocket baserad applikation, med backend och frontend. Gör det möjligt för en administratör att skapa innehåll i applikationen, hantera ett resultat som baseras på applikationens funktionalitet. 
 
 
 ### Att göra: Beskriv ditt förslag till examensarbete 
 
-Skapa ett git repo för projektarbetet. 
+Skapa ett Git repo för projektarbetet. 
 
 I README.md anger du följande rubriker:
 - Översiktlig beskrivning: I korthet vad ska applikationen göra?
@@ -41,16 +41,16 @@ I README.md anger du följande rubriker:
 - Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram 
 - Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
 
-**Ni ska ha skicka ett länk med examensprojektsrepot senast 28:e mars i vecka 13**
+**Bjud in oss lärare till ditt repo för examensprojektet senast onsdagen 27:e mars i vecka 13**
 
 ### Handledare
 
-Handledning kommer att finnas under tiden som du arbetar med examensprojketet. Du kommer att få en huvudsaklig handledare, men med möjlighet att samråda med andra lärare på kursen.
+Handledning kommer att finnas under tiden som du arbetar med examensprojektet. Du kommer att få en huvudsaklig handledare, men med möjlighet att samråda med andra lärare på kursen.
 
 
 ### Redovisning vid halvtid 
 
-När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i form av ett pågående arbete. Här du delar du med dig av utmaningar och kan få feedback. Visa skisser, din applikation och ditt git repo.  
+När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i form av ett pågående arbete. Här du delar du med dig av utmaningar och kan få feedback. Visa skisser, din applikation och ditt Git repo.  
 
 - Tisdag 30 april
 
@@ -61,8 +61,8 @@ När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i fo
 
 Redovisningen av projektet förväntas innehålla
 
-- ett versionshanterat GitHub repo
-- en inspelad 5-7 min video där applikationens funktionalitet demonstreras 
+- ett versionshanterat Git repo
+- en inspelad video (5-7 minuter) där applikationens funktionalitet demonstreras
 - en presentation av designskisser
 - en kort redogörelse för val av språk och eventuella ramverk
 - en länk till fungerande applikation på publik webbserver
