@@ -78,28 +78,28 @@ I README.md anger du följande rubriker:
 
 *Exempel på kravspecifikation - här för en tänkt Bloggplattform*
 
-- Applikationen ska
+Applikationen ska
 - [x] lagra data i en databas
 - [x] använda tabeller som relateras till varandra
 - [x] hantera 2 användarroller: admin, user
 - [x] hantera vy för mobil och skärm
 - [x] hantera sessioner 
 - [x] finnas publicerad på en publik webbplats
-- En användare (user) ska kunna: 
-  - [x] registrera sig / logga in / logga ut
-  - [x] redigera inloggningsuppgifter
-  - [x] skapa och tagga blogginlägg
-  - [x] ladda upp bild till blogginlägg
-  - [x] redigera blogginlägg
-  - [x] ta bort blogginlägg
-  - [x] gilla andra användares blogginlägg
-  - [x] kommentera andra användares blogginlägg
-- En besökare (utan inloggning)
-  - [x] ska kunna läsa publika blogginlägg 
-- En administratör (admin) ska kunna
-  - [x] redigera användares roller
-  - [x] skapa, redigera taggar för blogginlägg
-  - [x] radera användare
+En användare (user) ska kunna: 
+- [x] registrera sig / logga in / logga ut
+- [x] redigera inloggningsuppgifter
+- [x] skapa och tagga blogginlägg
+- [x] ladda upp bild till blogginlägg
+- [x] redigera blogginlägg
+- [x] ta bort blogginlägg
+- [x] gilla andra användares blogginlägg
+- [x] kommentera andra användares blogginlägg
+En besökare (utan inloggning)
+- [x] ska kunna läsa publika blogginlägg 
+En administratör (admin) ska kunna
+- [x] redigera användares roller
+- [x] skapa, redigera taggar för blogginlägg
+- [] radera användare
 
 
 Andra delar som kan ingå i en kravspecifikation kan ex vara
