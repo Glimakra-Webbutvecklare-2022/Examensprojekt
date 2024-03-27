@@ -76,11 +76,13 @@ I README.md anger du följande rubriker:
 
 ---
 
-*Exempel på kravspecifikation - här för en tänkt Bloggplattform*
+#### Exempel på kravspecifikation - här för en tänkt Bloggplattform
+*Vi vill att din kravspecifikation ska utformas när projketet startar upp (under vecka 15). 
+En kravspecifikation är ngt du ska ha som mål att arbeta med under projektet. Det innebär att du kanske inte hinner med alla punkter. Det kan oxå innebära att du omprioriterar vissa punkter.*      
 
 Applikationen ska
 - [x] lagra data i en databas
-- [x] använda tabeller som relateras till varandra
+- [x] använda tabeller som relateras till varandra: user, blogg, comment
 - [x] hantera 2 användarroller: admin, user
 - [x] hantera vy för mobil och skärm
 - [x] hantera sessioner 
@@ -110,7 +112,7 @@ Andra delar som kan ingå i en kravspecifikation kan ex vara
 - visa användare online
 - ta bort / avpublicera blogginlägg
 - få länk med inloggningsuppgifter om lösenordet är fel
-- applikationen ska kunna installeras via en guide
+- applikationen ska kunna installeras via en webbguide
 
 ---
 
