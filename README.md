@@ -72,7 +72,44 @@ I README.md anger du följande rubriker:
 - Översiktlig beskrivning: I korthet vad ska applikationen göra?
 - Tekniker och programspråk: Punktform vilka programspråk och applikationer ska användas
 - Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
-- Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare) 
+- Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare)
+
+---
+
+*Exempel på kravspecifikation - här för en tänkt Bloggplattform*
+
+- Applikationen ska
+- [x] lagra data i en databas
+- [x] använda tabeller som relateras till varandra
+- [x] hantera 2 användarroller: admin, user
+- [x] hantera vy för mobil och skärm
+- [x] hantera sessioner 
+- [x] finnas publicerad på en publik webbplats
+- En användare (user) ska kunna: 
+  - [x] registrera sig / logga in / logga ut
+  - [x] redigera inloggningsuppgifter
+  - [x] skapa och tagga blogginlägg
+  - [x] ladda upp bild till blogginlägg
+  - [x] redigera blogginlägg
+  - [x] ta bort blogginlägg
+  - [x] gilla andra användares blogginlägg
+  - [x] kommentera andra användares blogginlägg
+- En besökare (utan inloggning)
+  - [x] ska kunna läsa publika blogginlägg 
+- En administratör (admin) ska kunna
+  - [x] redigera användares roller
+  - [x] skapa, redigera taggar för blogginlägg
+  - [x] radera användare
+
+
+Andra delar som kan ingå i en kravspecifikation kan ex vara
+- hantera cookies
+- visa användare online
+- ta bort / avpublicera blogginlägg
+- få länk med inloggningsuppgifter om lösenordet är fel
+- applikationen ska kunna installeras via en guide
+
+---
 
 **Bjud in oss lärare till ditt repo för examensprojektet senast onsdagen 27:e mars i vecka 13**
 
