@@ -34,6 +34,27 @@ Andra förslag för projekt som kan passa:
 
 Handledning kommer att finnas under tiden som du arbetar med examensprojektet. Du kommer att få en huvudsaklig handledare, men givetvis med möjlighet att samråda med andra lärare på kursen.
 
+### Loggbok
+
+Under arbetet förväntas att ert repo med examensprojektbeskrivng ska finnas en loggbok.md när ni beskriver ert arbete **varje vecka**
+
+Exempel på hur loggboken kan se ut initiellt är
+
+```md
+# Loggbok
+
+Figmalänk:
+Gitrepo till projekt:
+(Annan viktig länk): 
+
+## Vecka 15
+...
+
+## Vecka 16
+...
+
+```
+
 
 ### Redovisning vid halvtid 
 
