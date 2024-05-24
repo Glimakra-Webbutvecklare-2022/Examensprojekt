@@ -68,8 +68,8 @@ När du jobbat med examensprojektet i ca 4 veckor redovisar du ditt projekt i fo
 
 *preliminära datum*
 
-- Tisdag 28 maj 
-- Torsdag 30 maj 
+- Tisdag 28 maj 10:30 
+- Måndag 3 juni 10:30
 
 Redovisningen av projektet förväntas innehålla
 
